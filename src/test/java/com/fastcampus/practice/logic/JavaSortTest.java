@@ -1,4 +1,4 @@
-package logic;
+package com.fastcampus.practice.logic;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
