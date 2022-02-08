@@ -12,7 +12,7 @@ class BubbleSortTest {
 
     // 1. should - when                 ex: thisLogicShouldSortDataWhenInput
     // 2. given - when - then           ex: givenList_whenSorting_thenReturnSortedList
-    @DisplayName("데이터 리스트를 입력하면, 정렬된 리스트를 반환한다.")
+    @DisplayName("[버블 소트]데이터 리스트를 입력하면, 정렬된 리스트를 반환한다.")
     @Test
     public void test() {
         //given
